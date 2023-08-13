@@ -1,0 +1,869 @@
+[
+    {
+        "brand": "mercedes-benz",
+        "model": "AMG_SL",
+        "price": "Rs. 2.35 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Jun/sl-55_600x400.jpg",
+        "overview": "3982 cc | Petrol",
+        "specs": [
+            {
+                "engine": "3982 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "4 ",
+                "torque": "n/a ",
+                "dimension(l*w*h)": "4461*1854*1409 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "M2",
+        "price": "Rs. 98.00 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Jun/m2-3_600x400.jpg",
+        "overview": "2993 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2993 CC ",
+                "fuel-type": "Petrol/Electric ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "4461*1854*1409 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mercedes-benz",
+        "model": "G-Class",
+        "price": "Rs. 2.55 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Jun/g400_600x400.jpg",
+        "overview": "2925 cc | Diesel",
+        "specs": [
+            {
+                "engine": "2925 CC ",
+                "fuel-type": "Diesel ",
+                "seating_capacity": "5 ",
+                "torque": "n/a ",
+                "break": "Disc ",
+                "dimension(l*w*h)": "4461*1854*1409 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "maruti",
+        "model": "Jimny",
+        "price": "Rs. 12.74 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/May/jimny_4_600x400.jpg",
+        "overview": "1462 cc | 16 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "1462 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "3985*1645*1720 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "Z4",
+        "price": "Rs. 89.30 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/May/z4-8_600x400.jpg",
+        "overview": "2998 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2998 CC ",
+                "fuel-type": "Petrol ",
+                "seating_capacity": "2 ",
+                "dimension(l*w*h)": "4324*2024*1304 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mercedes-benz",
+        "model": "AMG_A45S",
+        "price": "Rs. 92.50 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/May/amg-a-45-s-4_600x400.jpg",
+        "overview": "1991 cc | Petrol",
+        "specs": [
+            {
+                "engine": "1991 CC ",
+                "fuel-type": "Petrol ",
+                "break": "ventilated disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4445*1992*1412 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "renault",
+        "model": "Kiger",
+        "price": "Rs. 6.49 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/May/kiger_600x400.jpg",
+        "overview": "999 cc | 20 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "999 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3991*1750*1605 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "tata",
+        "model": "Nexon",
+        "price": "Rs. 7.79 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/May/nexon-9_600x400.jpg",
+        "overview": "1199 cc | 24 kmpl | Diesel | Petrol",
+        "specs": [
+            {
+                "engine": "1199 - 1497 CC ",
+                "fuel-type": "Petrol / Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3993*1811*1606 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "porsche",
+        "model": "Cayenne_Coupe",
+        "price": "Rs. 1.41 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Apr/cayenne-coupe-4_600x400.jpg",
+        "overview": "2894 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2894 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "4461*1854*1409 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "porsche",
+        "model": "Cayenne",
+        "price": "Rs. 1.35 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Apr/porsche-cayenne-3_600x400.jpg",
+        "overview": "2894 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2894 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "4930*1983*1698 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mg",
+        "model": "Comet_EV",
+        "price": "Rs. 7.98 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Apr/mg-comet-ev_600x400.jpg",
+        "overview": "40.14bhp | 230 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "110Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "2974*1505*1640 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "maruti",
+        "model": "FRONX",
+        "price": "Rs. 7.46 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Jan/fronx_600x400.jpg",
+        "overview": "998 cc | 22 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "998 - 1197 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3995*1765*1550 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "lexus",
+        "model": "RX",
+        "price": "Rs. 95.80 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Apr/lexus-rx-6_600x400.jpg",
+        "overview": "2393 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2393 - 2487 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Ventilated discs ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4890*1920*1695 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mercedes-benz",
+        "model": "AMG_GT-4_Door_Coupe",
+        "price": "Rs. 3.30 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Apr/gt-4-door_600x400.jpg",
+        "overview": "3982 cc | Petrol",
+        "specs": [
+            {
+                "engine": "3982 CC ",
+                "fuel-type": "Petrol ",
+                "seating_capacity": "5 ",
+                "break": "Disc ",
+                "dimension(l*w*h)": "4461*1854*1409 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "toyota",
+        "model": "Innova-Crysta",
+        "price": "Rs. 19.99 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Apr/innova_2023_600x400.jpg",
+        "overview": "2393 cc | Diesel",
+        "specs": [
+            {
+                "engine": "2393 CC ",
+                "fuel-type": "Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "7 ",
+                "dimension(l*w*h)": "4735*1830*1795 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "hyundai",
+        "model": "Verna",
+        "price": "Rs. 10.96 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/hyundai-verna-3_600x400.jpg",
+        "overview": "1482 cc | 20 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "1482 - 1497 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4535*1765*1475 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "honda",
+        "model": "City",
+        "price": "Rs. 11.57 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/city-p_600x400.jpg",
+        "overview": "1498 cc | 18 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "1498 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Ventilated Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4583*1748*1489 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "citroen",
+        "model": "eC3",
+        "price": "Rs. 11.50 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/e-c3_600x400.jpg",
+        "overview": "56.22bhp | 320 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "143Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3981*1733*1604 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "audi",
+        "model": "Q3_Sportback",
+        "price": "Rs. 51.43 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/q3_600x400.jpg",
+        "overview": "1984 cc | Petrol",
+        "specs": [
+            {
+                "engine": "1984 CC ",
+                "fuel-type": "Petrol/Electric ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4518*2022*1558 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "honda",
+        "model": "City-Hybrid",
+        "price": "Rs. 18.89 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/city-e-hev_600x400.jpg",
+        "overview": "1498 cc | 27 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "1498 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Ventilated Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4583*1748*1489 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "X1",
+        "price": "Rs. 45.90 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/May/bmw-x1-4_600x400.jpg",
+        "overview": "1499 cc | 20 kmpl | Diesel | Petrol",
+        "specs": [
+            {
+                "engine": "1499 - 1995 CC ",
+                "fuel-type": "Petrol / Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4429*1827*1598 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "hyundai",
+        "model": "Aura",
+        "price": "Rs. 6.32 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/aura_600x400.jpg",
+        "overview": "1197 cc | CNG | Petrol",
+        "specs": [
+            {
+                "engine": "1197 CC ",
+                "fuel-type": "Petrol / Cng ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3995*1680*1520 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "hyundai",
+        "model": "Grand-i10_Nios",
+        "price": "Rs. 5.73 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/grand_i10_nios_600x400.jpg",
+        "overview": "1197 cc | Petrol | CNG",
+        "specs": [
+            {
+                "engine": "1197 CC ",
+                "fuel-type": "Petrol / Cng ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3815*1680*1520 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bentley",
+        "model": "Bentayga_EWB",
+        "price": "Rs. 6.00 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Jan/ewb_600x400.jpg",
+        "overview": "3998 cc | Petrol",
+        "specs": [
+            {
+                "engine": "3998 CC ",
+                "fuel-type": "Petrol ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "5305*2222*1739 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "X7",
+        "price": "Rs. 1.22 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Jan/x7-1_600x400.jpg",
+        "overview": "2993 cc | 14 kmpl | Diesel | Petrol",
+        "specs": [
+            {
+                "engine": "2993 - 2998 CC ",
+                "fuel-type": "Petrol / Diesel ",
+                "seating_capacity": "6 ",
+                "dimension(l*w*h)": "5181*2218*1835 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mahindra",
+        "model": "XUV400-EV",
+        "price": "Rs. 15.98 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/mahindra-xuv400-ev_600x400.jpg",
+        "overview": "456 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "310Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4200*1821*1634 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "hyundai",
+        "model": "IONIQ-5",
+        "price": "Rs. 44.95 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/ioniq_5_600x400.jpg",
+        "overview": "631 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "350Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4635*1890*1625 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "mg",
+        "model": "Hector-Plus",
+        "price": "Rs. 17.99 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Jan/mg_hector_plus_600x400.jpg",
+        "overview": "1451 cc | 15 kmpl | Diesel | Petrol",
+        "specs": [
+            {
+                "engine": "1451 - 1956 CC ",
+                "fuel-type": "Petrol / Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "7 ",
+                "dimension(l*w*h)": "4699*1835*1760 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mg",
+        "model": "Hector",
+        "price": "Rs. 14.99 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Mar/mg-hector-5_600x400.jpg",
+        "overview": "1451 cc | 15 kmpl | Diesel | Petrol",
+        "specs": [
+            {
+                "engine": "1451 - 1956 CC ",
+                "fuel-type": "Petrol / Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4699*1835*1760 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "3Series-Gran_Limousine",
+        "price": "Rs. 58.90 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Jan/bmw_3_series_gran_limousine_2023_600x400.jpg",
+        "overview": "1995 cc | 19 kmpl | Diesel | Petrol",
+        "specs": [
+            {
+                "engine": "1995 - 1998 CC ",
+                "fuel-type": "Diesel / Petrol ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4823*1827*1441 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "7-Series",
+        "price": "Rs. 1.70 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/May/bmw-7-series_600x400.jpg",
+        "overview": "2998 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2998 CC ",
+                "fuel-type": "Petrol ",
+                "break": "ventilated disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "5391*2192*1544 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "i7",
+        "price": "Rs. 1.95 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/bmw-i7_600x400.jpg",
+        "overview": "590 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "745Nm ",
+                "fuel-type": "Electric ",
+                "break": "ventilated disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "5391*2192*1544 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "mercedes-benz",
+        "model": "AMG_E-53_Cabriolet",
+        "price": "Rs. 1.30 Crore",
+        "img": "https://media.zigcdn.com/media/model/2023/Jan/amg-e-53-cabriolet_600x400.jpg",
+        "overview": "2998 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2998 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "4826*2054*1427 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "toyota",
+        "model": "Innova_Hycross",
+        "price": "Rs. 18.55 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Nov/innova-hycross-7_600x400.jpg",
+        "overview": "1987 cc | 23 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "3346 CC ",
+                "fuel-type": "Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "5100*1990*1895 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "lexus",
+        "model": "LX",
+        "price": "Rs. 2.83 Crore",
+        "img": "https://media.zigcdn.com/media/model/2022/Dec/lx-new_600x400.jpg",
+        "overview": "3346 cc | Diesel",
+        "specs": [
+            {
+                "engine": "3346 CC ",
+                "fuel-type": "Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "5100*1990*1895 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "XM",
+        "price": "Rs. 2.60 Crore",
+        "img": "https://media.zigcdn.com/media/model/2022/Dec/bmw-xm-2_600x400.jpg",
+        "overview": "4395 cc | Petrol",
+        "specs": [
+            {
+                "engine": "4395 CC ",
+                "fuel-type": "Petrol ",
+                "break": "ventilated Disc ",
+                "seating_capacity": "7 ",
+                "dimension(l*w*h)": "5155*2000*1745 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "3-Series",
+        "price": "Rs. 69.20 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Dec/bmw-3-series-2022-3_600x400.jpg",
+        "overview": "2998 cc | 13 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "2998 CC ",
+                "fuel-type": "Petrol ",
+                "break": "ventilated Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4709*1827*1442 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "mercedes-benz",
+        "model": "EQB",
+        "price": "Rs. 74.50 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Aug/eqb-2_600x400.png",
+        "overview": "423 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "390Nm ",
+                "fuel-type": "Electric ",
+                "seating_capacity": "7 ",
+                "dimension(l*w*h)": "4684*2020*1667 mm^3 ",
+                "break": "Disc "
+            }
+        ]
+    },
+    {
+        "brand": "pravaig",
+        "model": "Pravaig-DEFY",
+        "price": "Rs. 39.50 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/defy_600x400.jpg",
+        "overview": "500 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "620Nm ",
+                "fuel-type": "Electric ",
+                "seating_capacity": "4 ",
+                "dimension(l*w*h)": "4940*1940*1650 mm^3 ",
+                "break": "Disc "
+            }
+        ]
+    },
+    {
+        "brand": "tata",
+        "model": " Tigor-EV",
+        "price": "Rs. 12.49 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/tigor-ev_600x400.jpg",
+        "overview": "315 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "170Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3993*1677*1532 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "jeep",
+        "model": "Grand-Cherokee",
+        "price": "Rs. 78.50 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/cherokee_600x400.jpg",
+        "overview": "1995 cc | Petrol",
+        "specs": [
+            {
+                "engine": "1995 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4914*1979*1792 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "pmv",
+        "model": "EaS-E",
+        "price": "Rs. 4.79 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Nov/pmv-ese_600x400.jpg",
+        "overview": "Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "50Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "2 ",
+                "dimension(l*w*h)": "2915*1157*1600 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "byd",
+        "model": "Atto-3",
+        "price": "Rs. 33.99 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Oct/atto3-2_600x400.jpg",
+        "overview": "521 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "310Nm ",
+                "fuel-type": "Electric ",
+                "break": "Ventilated Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4455*1875*1615 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": "M8-Coupe_Competition",
+        "price": "Rs. 2.44 Crore",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/bmw-m8-competition_600x400.jpg",
+        "overview": "4395 cc | 8 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "4395 CC ",
+                "fuel-type": "Petrol ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4867*2137*1362 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "tata",
+        "model": " Tiago-EV",
+        "price": "Rs. 8.69 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2023/Feb/tiago-ev_600x400.jpg",
+        "overview": "315 km/charge | Electric",
+        "specs": [
+            {
+                "engine": " n/a ",
+                "torque": "114Nm ",
+                "fuel-type": "Electric ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "3769*1677*1536 mm^3 "
+            }
+        ]
+    },
+    {
+        "brand": "maruti",
+        "model": "Grand-Vitara",
+        "price": "Rs. 10.70 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/grand-1_600x400.jpg",
+        "overview": "1462 cc | 27 kmpl | Petrol | CNG",
+        "specs": [
+            {
+                "engine": "1462 - 1490 CC ",
+                "fuel-type": "Petrol / Cng ",
+                "break": "Ventilated Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4345*1795*1645 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "volvo",
+        "model": "XC40",
+        "price": "Rs. 46.40 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/volvo_xc40_600x400.jpg",
+        "overview": "1969 cc | 12 kmpl | Petrol",
+        "specs": [
+            {
+                "engine": "1969 CC ",
+                "fuel-type": "Petrol ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4440*1863*1652 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "audi",
+        "model": "A4",
+        "price": "Rs. 43.85 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/audi_a4_2022_600x400.jpg",
+        "overview": "1998 cc | Petrol",
+        "specs": [
+            {
+                "engine": "1998 CC ",
+                "fuel-type": "Petrol ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4762*1847*1433 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "ferrari",
+        "model": "296-GTB",
+        "price": "Rs. 5.40 Crore",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/296-gtb_600x400.jpg",
+        "overview": "2992 cc | Petrol",
+        "specs": [
+            {
+                "engine": "2992 CC ",
+                "fuel-type": "Petrol ",
+                "seating_capacity": "2 ",
+                "dimension(l*w*h)": "4546*1958*1187 mm^3 ",
+                "break": "Disc ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "citroen",
+        "model": "C5-Aircross",
+        "price": "Rs. 37.17 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/citroen-c5_600x400.jpg",
+        "overview": "1997 cc | 17 kmpl | Diesel",
+        "specs": [
+            {
+                "engine": "1997 CC ",
+                "fuel-type": "Diesel ",
+                "break": "Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4500*1969*1710 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    },
+    {
+        "brand": "maruti",
+        "model": "Grand-Vitara",
+        "price": "Rs. 10.70 Lakh",
+        "img": "https://media.zigcdn.com/media/model/2022/Sep/grand-1_600x400.jpg",
+        "overview": "1462 cc | 27 kmpl | Petrol | CNG",
+        "specs": [
+            {
+                "engine": "1462 - 1490 CC ",
+                "fuel-type": "Petrol / Cng ",
+                "break": "Ventilated Disc ",
+                "seating_capacity": "5 ",
+                "dimension(l*w*h)": "4345*1795*1645 mm^3 ",
+                "torque": "n/a "
+            }
+        ]
+    }
+]
